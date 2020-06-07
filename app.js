@@ -64,7 +64,14 @@
 // document.write ("Yah! I can write HTML content through JavaScript");
 
 // 9
-var str = "-----";
-alert (str);
+// var str = "-----------ஜ ۩۞۩ ஜ----------";
+// alert (str);
+// document.write (str);
+
+
+
+// chapter 3
+
+// 1
 
 
