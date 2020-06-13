@@ -939,9 +939,12 @@
 
 // 15
 // var arr = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
-// document.write (`<select name="Phone-Manufacturers"> <option value="${arr[0]}">${arr[0]}</option> <option value="${arr[1]}">${arr[1]}</option> <option value="${arr[2]}">${arr[2]}</option> <option value="${arr[3]}">${arr[3]}</option> <option value="${arr[4]}">${arr[4]}</option> <option value="${arr[5]}">${arr[5]}</option> </select>`);
-
-
+// document.write (`<select>`);
+// for (var i = 0; i < arr.length; i++)
+// {
+//         document.write (`<option value="${arr[i]}"> ${arr[i]} </option>`);
+// }
+// document.write (`</select>`);
 
 
 // chapters 17 - 20
